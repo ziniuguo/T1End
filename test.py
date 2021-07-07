@@ -1,13 +1,5 @@
 """
-Class 05 Group 06:
 Eunice Kwok Xiu Yi, Guo Ziniu, Sarah Chua Yi Qi, Xavier Leung
-
-Run this .py file in any Python IDE you like.
-
-The interaction will be in the pop-up windows and Python console.
-Use 'w', 'a', 's', 'd' to navigate, and 'g' to interact.
-Please do not turn on CAPSLOCK when running it.
-
 """
 
 from turtle import *
